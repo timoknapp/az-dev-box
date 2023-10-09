@@ -16,7 +16,7 @@ To connect to a Dev Box, you need to go to [Microsoft Developer Portal](https://
 ```bash
 cd java-hello-world
 # Compile program
-javac Hello.java
+javac HelloDevBox.java
 # Excute the program
-java Hello
+java HelloDevBox
 ```
